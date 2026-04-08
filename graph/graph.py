@@ -1,7 +1,7 @@
 from collections import defaultdict
 from copy import deepcopy
 from typing import Optional, List, Dict
-from graph.utils import get_string_hash
+from utils import get_string_hash
 import logging
 
 # Configure logging
